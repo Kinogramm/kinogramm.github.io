@@ -1,0 +1,14 @@
+html{
+	background-image: url('../img/fons/main-fon.png');
+}
+table{
+	position: relative;
+	border-radius: 8px;	
+	width: 100%;
+	background-color: rgba(187, 187, 187, 0.17);
+	font-family: 'Russo One', sans-serif;
+	color: #d4d4d4;
+}
+.player{
+	margin-left: 19%;
+}

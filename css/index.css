@@ -1,0 +1,23 @@
+html{
+	background-image: url('../img/fons/main-fon.png');
+}
+.film-table{
+	position: relative;
+	border-radius: 8px;	
+	width: 75%;
+	background-color: rgba(187, 187, 187, 0.17);
+	font-family: 'Russo One', sans-serif;
+	color: #d4d4d4;
+}
+
+.watch-butt{
+	display: block;
+	color: black;
+	background-color: orange;
+	text-decoration: none;
+	padding: 7px;
+	border-radius: 7px;
+}
+.watch-butt:hover{
+	filter: brightness(0.7);
+}
